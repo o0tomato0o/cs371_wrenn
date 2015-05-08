@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wrenn</string>
+    <string name="title_activity_new_event">new_event</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="notification_options">
+        <item>Notification</item>
+        <item>Alarm</item>
+        <item>Text</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="transportation_options">
+        <item>Car</item>
+        <item>Transit</item>
+        <item>Walking</item>
+        <item>Bike</item>
+    </string-array>
+    <string name="about1">Hello,\nWith Wrenn, you can be notified when you should leave for an event. Thank you for using our app.</string>
+</resources>
